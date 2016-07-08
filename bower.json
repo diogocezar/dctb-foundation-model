@@ -1,6 +1,6 @@
 {
   "name": "dctb-foundation-model",
-  "description": "Just a simple example of usage of foundation framework.",
+  "description": "This is my pack of plugins and implementations of front-end model with Foundation 6.x and JQuery 2.x",
   "main": "index.html",
   "authors": [
     "Diogo Cezar <diogo@diogocezar.com>"
@@ -10,6 +10,7 @@
     "Front-End",
     "Model",
     "Foundation",
+    "JQuery",
     "Diogo",
     "Cezar"
   ],
